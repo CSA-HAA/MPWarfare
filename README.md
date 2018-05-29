@@ -8,3 +8,6 @@ It is a very simple and easy to play game yet very fun at the same time to play 
 Gore is minimal making the game very family-friendly. 
 It has been very fun using Unreal Engine and explore a new form of game development. 
 I hope you all enjoy this game. 
+
+The game can be played at the following link:
+https://hahmed.itch.io/mpwarfare
