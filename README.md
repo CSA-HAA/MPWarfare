@@ -11,3 +11,5 @@ I hope you all enjoy this game.
 
 The game can be played at the following link:
 https://hahmed.itch.io/mpwarfare
+or
+https://drive.google.com/file/d/1VuF2TWNtp2OGfhytdk2rBfmTB2X4Ze-k/view
